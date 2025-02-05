@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right"alt="coading"width="100"src="![image](https://github.com/user-attachments/assets/782db665-8162-4442-a259-0b6e3b7bfbb8)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankashyapp&label=Profile%20views&color=0e75b6&style=flat" alt="kundankashyapp" /> </p>
 
