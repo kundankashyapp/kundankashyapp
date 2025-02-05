@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/user-attachments/assets/624b67e5-8a33-4404-b27d-cc48d32c7790)
+
 )
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
