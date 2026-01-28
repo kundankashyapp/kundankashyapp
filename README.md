@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbioriginal.svg"width="40"/<imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="0"/> <imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"width="40"/<imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysqloriginal.svg"width="40"/<imgsrc="https://cdn.jsdelivr.net/gh/devicons/dzvicon/icons/postgresql/postgresql-original.svg" width="40"/> <imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="38"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundankashyapp&show_icons=true&locale=en&layout=compact" alt="kundankashyapp" /></p>
 
