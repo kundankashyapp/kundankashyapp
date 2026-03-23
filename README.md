@@ -27,7 +27,10 @@
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </p>
 
 ---
@@ -44,9 +47,9 @@
 - Performed data cleaning and transformation  
 - Tools: MySQL  
 
-### 🔹 Excel Data Analysis  
-- Built dashboards using pivot tables  
-- Created charts for data visualization  
+### 🔹 Python Data Analysis  
+- Data cleaning and analysis using Pandas & NumPy  
+- Visualization using Seaborn & Matplotlib  
 
 ---
 
