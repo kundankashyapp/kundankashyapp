@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kundan Kumar  
+# Hi 👋, I'm Kundan Kumar
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Open+to+Work)
 
